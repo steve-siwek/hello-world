@@ -1,2 +1,7 @@
-# hello-world
-Write a short description.
+hello-world
+===========
+
+Hi Humans!
+
+Hubot here, I like Node.js and Coffeescript
+
